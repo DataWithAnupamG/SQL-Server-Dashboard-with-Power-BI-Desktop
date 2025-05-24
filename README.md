@@ -1,6 +1,6 @@
 # How to Build a SQL Server Dashboard with Power BI Desktop
 
-This guide walks through creating a real-time dashboard in Power BI Desktop that visualizes key metrics from your SQL Server instance. It's based on the original blog by Dan English, adapted and updated for modern usage and customization.
+This guide walks through creating a real-time dashboard in Power BI Desktop that visualizes key metrics from your SQL Server instance.
 
 ---
 
@@ -18,7 +18,7 @@ This guide walks through creating a real-time dashboard in Power BI Desktop that
 2. Go to **Home > Get Data > SQL Server**.
 3. Fill in:
 
-   * **Server:** `YOUR_SERVER_NAME` (e.g., `ANUPAM\MSSQLSERVER01`)
+   * **Server:** `YOUR_SERVER_NAME` (e.g., `localhost\MSSQLSERVER01`)
    * **Database:** leave blank or enter `master`
 4. Expand **Advanced options**.
 5. Paste the following T-SQL query:
@@ -132,7 +132,7 @@ GRANT CONNECT TO [YourLogin];
 
 ## Author
 
-Anupam | [GitHub Profile](https://github.com/anupam-yourhandle)
+Anupam | [GitHub Profile](https://github.com/datawithanupamg)
 
 Feel free to fork this and modify it for your own SQL monitoring needs!
 
