@@ -126,7 +126,7 @@ GRANT CONNECT TO [YourLogin];
 
 ## Sample Screenshot
 
-![Dashboard Example](https://denglishbi.files.wordpress.com/2015/08/powerbi_sqldashboard.jpg)
+![Dashboard Example](SQL Server Dashboard-1.png)
 
 ---
 
