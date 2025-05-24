@@ -126,7 +126,7 @@ GRANT CONNECT TO [YourLogin];
 
 ## Sample Screenshot
 
-![Dashboard Example](SQL Server Dashboard-1.png)
+![Dashboard Example](https://github.com/DataWithAnupamG/SQL-Server-Dashboard-with-Power-BI-Desktop/blob/089b31e0aa40ade1c61c52db655222390d3efe29/SQL%20Server%20Dashboard-1.png)
 
 ---
 
